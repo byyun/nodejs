@@ -1,0 +1,22 @@
+{
+  "name": "server_side_javascript",
+  "version": "1.0.0",
+  "description": "server side javacript tutorials",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byyun/nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byyun/nodejs/issues"
+  },
+  "homepage": "https://github.com/byyun/nodejs#readme",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
+}
