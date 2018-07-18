@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/byyun/nodejs#readme",
   "dependencies": {
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
     "underscore": "^1.9.1"
   }
 }
